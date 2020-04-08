@@ -65,7 +65,6 @@
 			isa = PBXGroup;
 			children = (
 				46974A352325DA7F00148B92 /* Helpers */,
-				46974A2A2325CF2F00148B92 /* Model */,
 				46974A282325CF2F00148B92 /* Model Controller */,
 				46974A362325DA9000148B92 /* Views */,
 				46974A2E2325CF3A00148B92 /* View Controllers */,
@@ -112,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				46974A262325CD6F00148B92 /* PlanetCollectionViewCell.swift */,
+				46974A2A2325CF2F00148B92 /* Model */,
 			);
 			path = Views;
 			sourceTree = "<group>";
